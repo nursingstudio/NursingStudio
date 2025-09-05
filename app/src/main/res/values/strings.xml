@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nursingstudio</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_otp_verification">OtpVerificationActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_summary">SummaryActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
